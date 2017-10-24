@@ -1,0 +1,5 @@
+console.log("Log level");
+console.debug("Debug level");
+console.info("Info level");
+console.warn("Warn level");
+console.error("Error level");

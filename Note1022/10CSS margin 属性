@@ -1,0 +1,22 @@
+CSS margin 属性
+/JSP98/WebContent/index.jsp
+
+设置一个p元素的所有四个边距：
+p 
+{
+margin:2cm 4cm 3cm 4cm;
+}
+
+属性定义及使用说明
+margin简写属性在一个声明中设置所有外边距属性。该属性可以有1到4个值。
+实例:
+margin:10px 5px 15px 20px;
+上边距是 10px
+右边距是 5px
+下边距是 15px
+左边距是 20px
+
+margin:10px 5px 15px;
+上边距是 10px
+右边距和左边距是 5px
+下边距是 15px

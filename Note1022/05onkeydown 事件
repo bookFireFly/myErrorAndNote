@@ -1,0 +1,10 @@
+onkeydown 事件
+http://www.runoob.com/jsref/event-onkeydown.html
+onkeydown 事件会在用户按下一个键盘按键时发生。
+
+keyCode 事件属性
+http://www.runoob.com/jsref/event-key-keycode.html
+
+完整 Unicode 参考手册。[HTML 字符集]
+http://www.runoob.com/charsets/ref-html-utf8.html
+CR	13	000D	回车（carriage return）
